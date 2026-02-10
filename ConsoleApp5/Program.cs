@@ -308,6 +308,12 @@ namespace OOP_Football_Manager
             Console.WriteLine($"=== ОТБОР НА МЕЧТИТЕ ({dreamTeam.Players.Count}/10) ===");
             dreamTeam.PrintWithIndex();
         }
+            
+
+
+
+
+
 
         // AI-generated data, reviewed by team
         static void SeedPlayers()
