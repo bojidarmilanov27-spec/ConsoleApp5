@@ -302,7 +302,7 @@ namespace OOP_Football_Manager
             dreamTeam.AddPlayer(selected);
             Console.WriteLine("✔ Добавен в отбора!");
         }
-
+         
         static void ShowDreamTeam()
         {
             Console.WriteLine($"=== ОТБОР НА МЕЧТИТЕ ({dreamTeam.Players.Count}/10) ===");
